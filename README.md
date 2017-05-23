@@ -28,11 +28,11 @@ Dans cet exemple, on mine du Bytecoin sur 2 cores et du FantomCoin "merged" sur 
 
 -------------------
 Voici la liste des monnaies minabe avec la console:
-Bytecoin    =  BCN
-Monero      =  XMR
-FatomCoin   =  FCN
-QuazarCoin  =  QCN
-DigitalNote =  XDN
-MonetaVerde =  MCN
+Bytecoin    =  BCN; 
+Monero      =  XMR; 
+FatomCoin   =  FCN; 
+QuazarCoin  =  QCN; 
+DigitalNote =  XDN; 
+MonetaVerde =  MCN; 
 Dashcoin    =  DSH
 -------------------
