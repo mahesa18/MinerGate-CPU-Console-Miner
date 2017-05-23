@@ -1,0 +1,1 @@
+minergate-cli -user mon.adresse@email.fr --qcn 4

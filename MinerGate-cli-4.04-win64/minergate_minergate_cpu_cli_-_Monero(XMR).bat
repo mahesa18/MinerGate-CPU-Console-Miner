@@ -1,0 +1,1 @@
+minergate-cli -user mon.adresse@email.fr --xmr 4
