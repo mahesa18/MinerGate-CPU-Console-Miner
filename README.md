@@ -1,7 +1,6 @@
 # MinerGate-CPU-Console-Miner
 MinerGate CPU Console miner (Windows x64, Linux, Mac)
 
-
 https://fr.minergate.com/faq
 -
 
@@ -16,7 +15,7 @@ Vous pouvez également miner en monnaie et la faire "merged" sur une autre,
 Exemple -->  minergate-cli -user mon.adresse@email.com -bcn 2 fcn+dsh 2
 Dans cet exemple, on mine du Bytecoin sur 2 cores et du FantomCoin "merged" sur du Dashcoin également sur deux coeurs.
 
--
+```
 Voici la liste des monnaies minabe avec la console:
 Bytecoin    =  BCN; 
 Monero      =  XMR; 
@@ -25,4 +24,4 @@ QuazarCoin  =  QCN;
 DigitalNote =  XDN; 
 MonetaVerde =  MCN; 
 Dashcoin    =  DSH
--
+```
